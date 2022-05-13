@@ -9,6 +9,7 @@ public class MarkdownParseTest {
     @Test
     public void addition() {
         assertEquals(2, 1 + 1);
+	System.out.println("Hello World!");
     }
     @Test
     public void getlink() throws IOException{
